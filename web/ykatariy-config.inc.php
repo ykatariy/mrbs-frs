@@ -1,4 +1,4 @@
-<?php // -*-mode: PHP; coding:utf-8;-*-
+<?php
 /*********************************
  * Site identification information
  *********************************/
@@ -31,3 +31,5 @@ $vocab_override['en']['mail_body_changed_entry'] = "An entry has been modified.\
                                     "If this is for a GoToMeeting/Zoom/WebEx conference, please email " .
                                     "help@isbscience.org with your event details.\n\n" .
                                     "Details on your room booking are below:";
+
+?>
